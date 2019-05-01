@@ -4,10 +4,11 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="stylesheet" href="CSS/left.css">
 <title>Insert title here</title>
 </head>
 <body>
-	<ul>
+	<ul class="leftmenu">
 		<li><a href="#">스페셜 앨범[HOUR MOMENT]</a></li>
 		<li><a href="#">미니 11집[THIS IS US]</a></li>
 		<li><a href="#">정규 2집[Brother Act]</a></li>

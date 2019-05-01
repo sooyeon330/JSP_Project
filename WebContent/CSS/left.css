@@ -1,0 +1,21 @@
+.leftmenu {
+	list-style-type:none;
+	margin:0;
+	padding: 20px 10px;
+ 	background-color: #265DA6;
+}
+.leftmenu li a{
+	display:block;
+ 	color:white;
+ 	text-decoration: none;
+ 	padding: 10px 7px;
+}
+.leftmenu li a:hover{
+	display:block;
+ 	color:white;
+ 	text-decoration: underline;
+ 	padding: 10px 7px;
+}
+.left{
+	width:20%;
+}
