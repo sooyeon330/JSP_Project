@@ -16,7 +16,7 @@
 		<tr>
 		<td class="left" valign="top">
 				<jsp:include page="<%=leftPage%>" flush="false" />
-			</td> --%>
+			</td> 
 			<td class="cont" valign="top">
 				<jsp:include page="<%=contentPage%>" flush="false" />
 			</td> 

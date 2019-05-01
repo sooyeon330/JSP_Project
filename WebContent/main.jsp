@@ -2,6 +2,6 @@
     pageEncoding="UTF-8"%>
     
 <jsp:forward page="templateTest.jsp">
-
-	<jsp:param name="CONTENTPAGE" value="content.jsp" />
+<jsp:param name="LEFTPAGE" value="left.jsp" />
+	<jsp:param name="CONTENTPAGE" value="Recomend.jsp" />
 </jsp:forward>

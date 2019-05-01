@@ -27,15 +27,15 @@
 			</td>
 		</tr>
 		<tr>
-		<%-- 	<td class="left" valign="top">
+			<td class="left" valign="top">
 				<jsp:include page="<%=leftPage%>" flush="false" />
-			</td> --%>
+			</td>
 			<td class="cont" valign="top">
 				<jsp:include page="<%=contentPage%>" flush="false" />
-			</td><%-- 
+			</td>
 			<td class="right" valign="top">
 				<jsp:include page="right.jsp" flush="false" />
-			</td> --%>
+			</td>
 		</tr>
 		<tr>
 			<td class="bottom" colspan="3">
