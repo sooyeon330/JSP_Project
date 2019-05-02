@@ -1,4 +1,8 @@
 .leftmenu {
+	position: -webkit-sticky;
+ 	position: sticky;
+ 	top:100px;
+ 	
 	list-style-type:none;
 	margin:0;
 	padding: 20px 10px;
