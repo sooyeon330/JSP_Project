@@ -5,3 +5,4 @@
 <jsp:param name="LEFTPAGE" value="left.jsp" />
 	<jsp:param name="CONTENTPAGE" value="Recomend.jsp" />
 </jsp:forward>
+
