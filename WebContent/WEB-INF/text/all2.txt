@@ -1,0 +1,15 @@
+﻿s1,10215293,HOUR MOMENT,2018.11.12,*FRIEND/Like it/나비/제발/*아름답고도 아프구나/아름답고도 아프구나 (Inst.)
+s1,10215293,HOUR MOMENT,2018.11.12,*FRIEND/Like it/나비/제발/*아름답고도 아 프구나/아름답고도 아프구나 (Inst.)
+11,10175106,THIS IS US,2018.6.18,Call me/*너 없인 안 된다/Yeah/Blue Moon/IceBreaker(이민혁.프니엘.정일훈)/123 (BTOB-Blue)/*The Feeling
+j2,10102658,Brother Act,2017.10.16,*그리워하다/My Lady/새빨간 거짓말/신바람/나나나/꿈에/Guitar (Stroke of Love)/이별을 만나다/Fly Away/Finale : 우리들의 콘서트
+10,10041603,Feel'eM,2017.3.6,말만해/*MOVIE/ABOUT TIME/빨리 뛰어/언젠가
+9,10012901,NEW MEN,2016.11.7,NEW MEN/*기도 (I'll Be Your Man)/취해/무료해/Yes I Am/놀러와/예지앞사
+8,2675661,Remember that,2016.3.28,Killing Me/그려본다 (내가 그린 그림)/*봄날의 기억/Anymore/So pretty/너 같아서/자리비움
+7,2644202,I mean,2015.10.12,Last Day/*집으로 가는 길/심장어택/Neverland (Feat. G.NA)/나 빼고 다 늑대/여기 있을게
+j1,2326467,Complete,2015.6.29,*괜찮아요/너나 잘 살아/북 치고 장구 치고/Summer Romance/친구의 여자친구/꽃보다 그녀/보고파/어기여차 디여차/Open/비밀(Insane) (Acoustic Ver.)/Shake it/Everything's Good - 일훈 Solo. (Outro)
+6,2293456,The Winter's Tale,2014.12.22,*울어도 돼/*울면 안 돼/한 모금/마셔!/크리스마스라서
+5,2283301,Move,2014.9.29,*넌 감동이야/잘 지내겠죠/happening/넌 나의 천사 (Feat. JOO)/몰라/Shake It (Bonus Track - CD Only)
+4,2233451,뛰뛰빵빵,2014.2.17,*뛰뛰빵빵/끝난 건가요/여보세요/Hello Mello/끝나지 않을 (Melody)
+3,2200239,스릴러,2013.9.9,내가 니 남자였을 때/*스릴러/왜 이래/Catch Me/크리스탈같이/별
+2,2149892,Press Play,2012.9.12,Press Play(Feat. G.NA)/*WOW/*사랑밖에 난 몰라/U & I/Stand Up/My Girl
+1,2104986,Born To Beat,2012.4.3,Born TO Beat/*비밀(Insane)/Imagine/Monday To Sunday

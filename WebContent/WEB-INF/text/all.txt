@@ -1,5 +1,5 @@
 ﻿s1,HOUR MOMENT,2018.11.12,*FRIEND/Like it/나비/제발/*아름답고도 아프구나/아름답고도 아프구나 (Inst.)
-s1,HOUR MOMENT,2018.11.12,*FRIEND/Like it/나비/제발/*아름답고도 아프구나/아름답고도 아프구나 (Inst.)
+s1,HOUR MOMENT,2018.11.12,*FRIEND/Like it/나비/제발/*아름답고도 아 프구나/아름답고도 아프구나 (Inst.)
 11,THIS IS US,2018.6.18,Call me/*너 없인 안 된다/Yeah/Blue Moon/IceBreaker(이민혁.프니엘.정일훈)/123 (BTOB-Blue)/*The Feeling
 j2,Brother Act,2017.10.16,*그리워하다/My Lady/새빨간 거짓말/신바람/나나나/꿈에/Guitar (Stroke of Love)/이별을 만나다/Fly Away/Finale : 우리들의 콘서트
 10,Feel'eM,2017.3.6,말만해/*MOVIE/ABOUT TIME/빨리 뛰어/언젠가

@@ -19,11 +19,6 @@
 		String date;
 		ArrayList<String> track = new ArrayList<>();
 		
-		public Song(String album, String date){
-			this.Album = album;
-			this.date = date;
-			
-		}
 		public Song(String num, String album,  String date, ArrayList<String> track){
 			this.num = num;
 			this.Album = album;
@@ -67,7 +62,6 @@
 			
 			//임시변수를 이용해 ArrayList<Song>에  추가
 			song.add(new Song(albumnum, albumstr,datestr,tracklist));
-
 		}//while 
 %>
 <table class="allList">
@@ -135,7 +129,6 @@
 		}
 		return str;
 	}
-
 	String albumId(String albumnum){
 		String str=null;
 		switch(albumnum){
@@ -156,7 +149,6 @@
 		}
 		return str;
 	}
-
 %>
 
 </table>
