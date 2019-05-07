@@ -15,9 +15,8 @@ body::-webkit-scrollbar {
 	background-color:#F2F2F2;
 }
 .header{
-	padding:0px;
+	padding:10px;
 	text-align: center;
-	margin-bottom: 55px;
 }
  .top {
 	text-align: center;
@@ -29,7 +28,7 @@ body::-webkit-scrollbar {
 }
 
 .cont {
-	width: 70%;
+	width: 80%;
 	height: 600px;
 	padding:10px;
 }
@@ -38,7 +37,7 @@ body::-webkit-scrollbar {
 	width: 10%;
 }
 
-.bottom {
+.bottom {	
 	text-align:center;
 	padding:10px;
 	height: 10%;
