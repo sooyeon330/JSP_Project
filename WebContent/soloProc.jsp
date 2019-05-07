@@ -54,7 +54,6 @@
 			String[] str = read.split(",");	 //파일에서 ',' 을 기준으로 문자열 추출
 			//추출한걸 임시변수에 추가tr[0].coumimg = str[0];
 	//		albumnum = str[1];
-			if(str[0].contains("EFBBBF")) {str[0] = str[0].replace("EFBBBF", "");}
 			albumimg = str[0];
 			albumid = str[1];
 			albumstr = str[2];
@@ -88,14 +87,14 @@
 		String imgart="";
 		boolean firstLine=true;
 //		String albumId = "";
-		for(int i=1; i< song.size(); i++){
+		for(int i=1; i< song.size(); i++){ //BOM 때문에 첫라인에서 에러가 나서 파일에 한줄 추가해주고 1부터 시작
 //			albumnum = song.get(i).num.toString();
 //			out.println(tmp+","+albumArt(tmp)+"<br>");
 			imgart = song.get(i).Albumimg;
 			out.println(imgart+"<br>");
 //				firstLine = false;
 	//			albumId = albumId(albumnum);
-				if(imgart!=null){ //이유는 모르겠지만..첫번째 데이터가 null값이 넘겨져서... null이 아닐때만 tr생성..하는걸로..				
+//				if(imgart!=null){ 		
 					out.println("<tr id="+imgart+">");%>
 					<td><img class="image" src="img/album/<%=imgart%>.jpg"></td>
 					<td><a target="black" href="https://www.melon.com/album/detail.htm?albumId=<%=song.get(i).AlbumId%>"><%=song.get(i).Album%></a></td>
@@ -107,10 +106,10 @@
 					}
 					out.println("</td>");
 					out.println("</tr>");
-				}else{
+	//			}else{
 				//	out.print("null"); 
 				//	i--; //이거하면 에러낭..
-				}
+	//			}
 			}
 	}catch(Exception e){
 //		out.print("catch");
