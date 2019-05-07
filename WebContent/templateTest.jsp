@@ -23,7 +23,7 @@
 		</tr>
 		<tr>
 			<td class="header" colspan="3">
-				<a href="main.jsp"><img width="80%" src="img/header.png"></a>
+				<a href="main.jsp"><img width="100%" src="img/header.png"></a>
 			</td>
 		</tr>
 		<tr>
