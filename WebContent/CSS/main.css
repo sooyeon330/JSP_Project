@@ -15,9 +15,9 @@ body::-webkit-scrollbar {
 	background-color:#F2F2F2;
 }
 .header{
-	padding-top: 52px;
+	padding:0px;
 	text-align: center;
-	margin-bottom: 50px;
+	margin-bottom: 55px;
 }
  .top {
 	text-align: center;
