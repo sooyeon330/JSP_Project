@@ -6,7 +6,7 @@
 <div class="top">
 	<div class="logo">
 		<a href="main.jsp"><img id="img" height="50px"
-			src="img/logo-1.png"></a>
+			src="img/logo1.png"></a>
 	</div>
 	<div>
 		<ul class="menu">

@@ -51,26 +51,26 @@ a:hover {
 
 td#coral {
 	background-color: lightcoral;
-	background-image: url("../img/sleep.jpg");
+	background-image: url("../img/sleep.png");
 	background-size: 100% 100%;
 	/* 	background-repeat: no-repeat; */
 }
 
 td#lightblue {
 	background-color: lightblue;
-	background-image: url("../img/excitedimg2.png");
+	background-image: url("../img/excited.png");
 	background-size: 100% 100%;
 }
 
 td#yellow {
 	background-color: lightgoldenrodyellow;
-	background-image: url("../img/poolimg.png");
+	background-image: url("../img/pool.png");
 	background-size: 100% 100%;
 }
 
 td#violet {
 	background-color: violet;
-	background-image: url("../img/restimg2.png");
+	background-image: url("../img/rest.png");
 	background-size: 100% 100%;
 }
 
