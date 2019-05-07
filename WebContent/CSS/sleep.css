@@ -1,0 +1,45 @@
+html{
+	scroll-behavior: smooth;
+}
+.sleepList{
+	width: 100%;
+	height: 100%;
+	text-align: left;
+	border-spacing:0px;
+	font-weight:lighter;
+	
+/* 	margin:5px; */
+}
+/* 
+.sleepList th{
+	padding: 10px;
+	background-color: #03258C;
+	color:white;
+}
+ */
+ .sleepList tr{
+ 	border-radius: 30px;
+ }
+.sleepList tr:hover{
+	background-color: #e6e6e6;
+}
+.sleepList td{
+	padding : 10px;
+}
+.imgtd{
+	float: right;
+}
+.songtd{
+	width: 30%;
+}
+.image{
+	height: 50px;
+}
+.sleepList a{
+	color:black;
+	text-decoration: none;
+}
+.sleepList a:hover{
+	color:black;
+	text-decoration: underline;
+}
