@@ -22,6 +22,10 @@ html{
 .track{
 	width: 50%;
 }
+.track p:hover{
+	background-color: #F2F2F2;
+	padding:3px;
+}
 .image{
 	width:100%;
 }

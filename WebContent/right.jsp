@@ -6,7 +6,7 @@
 <div class="nav">
 	<ul>
 		<li><a href="http://cafe459.daum.net/_c21_/home?grpid=1Pflm" target="blank">
-				<img width=30 height=30 src="img/logo_cafe.jpg">
+				<img width=30 height=30 src="img/logo_cafe.png">
 		</a></li>
 		<li><a href="http://cafe459.daum.net/_c21_/home?grpid=1Pflm" target="blank">
 				<img width=30 height=30 src="img/logo_youtube.png">

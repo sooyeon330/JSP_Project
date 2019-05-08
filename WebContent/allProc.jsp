@@ -58,9 +58,9 @@
 			String[] track = str[4].split("/");//파일에서 가져온 트랙리스트를  /를 기준으로 추출
 			for(int i=0; i<track.length; i++){ //가져온 길이만큼 반복해 
 				if(track[i].charAt(0) == '*'){//타이틀곡이면
-					tracklist.add("<b>"+track[i].substring(1,track[i].length())+"</b><br>");//문자열 강조해서 임시리스트에 추가
+					tracklist.add("<b>"+track[i].substring(1,track[i].length())+"</b>");//문자열 강조해서 임시리스트에 추가
 				}else{
-					tracklist.add(track[i]+"<br>");//그냥 임시리스트에 추가
+					tracklist.add(track[i]);//그냥 임시리스트에 추가
 				}	
 			}
 			
@@ -95,7 +95,7 @@
 				out.println("<td>"+song.get(i).date+"</td>");
 				out.println("<td class='track'>");
 				for(String tracklist:song.get(i).track){ //정확한 값만 추출하기위함
-					out.println(tracklist+"<br>");
+					out.println("<p>"+tracklist+"</p>");
 				}
 				out.println("</td>");
 				out.println("</tr>");

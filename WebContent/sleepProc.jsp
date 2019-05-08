@@ -61,18 +61,6 @@
 		}//while 
 %>
 <table class="sleepList">
-<!-- 
-	<colgroup>
-			<col style="width: 20%;">
-			<col style="width: 20%;">
-			<col style="width: 10%;">
-	</colgroup>
-	 -->
-<!-- 	
-	<tr>
-		<th colspan="2">앨범명</th><th>발매일</th><th>트랙리스트</th>
-	</tr>
- -->
 <%
 		//출력
 		String imgart="";
