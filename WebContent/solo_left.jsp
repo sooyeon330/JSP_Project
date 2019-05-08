@@ -9,12 +9,12 @@
 </head>
 <body>
 	<ul class="leftmenu">
-		<li><a href="#">Piece of BtoB</a></li>
-		<li><a href="#">&lt;HUTAZONE&gt;-이민혁</a></li>
-		<li><a href="#">&lt;MARK&gt;-이창섭</a></li>
+		<li><a href="#pob1">Piece of BtoB</a></li>
+		<li><a href="#hutajone">&lt;HUTAZONE&gt;-이민혁</a></li>
+		<li><a href="#Mark">&lt;MARK&gt;-이창섭</a></li>
+		<li><a href="#Big_wave">&lt;Big wave&gt;-정일훈</a></li>
 		<li><a href="#">임현식</a></li>
 		<li><a href="#">프니엘</a></li>
-		<li><a href="#">&lt;Big wave&gt;-정일훈</a></li>
 		<li><a href="#">육성재</a></li>
 	</ul>
 </body>

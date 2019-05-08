@@ -10,6 +10,7 @@
 <body>
 	<%
 		request.setCharacterEncoding("utf-8");
+		String headerPage = request.getParameter("HEADERPAGE");
 		String contentPage = request.getParameter("CONTENTPAGE");
 		String leftPage = request.getParameter("LEFTPAGE");
 	%>
@@ -23,7 +24,7 @@
 		</tr>
 		<tr>
 			<td class="header" colspan="3">
-				<a href="main.jsp"><img width="80%" src="img/header.png"></a>
+				<jsp:include page="<%=headerPage%>" flush="false" />
 			</td>
 		</tr>
 		<tr>

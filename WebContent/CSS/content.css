@@ -45,14 +45,38 @@
 	font-family: 나눔바른고딕;
 }
 
-a:hover {text-decoration: underline; }
+a:hover {
+	text-decoration: underline;
+}
 
-td#coral {background-color: lightcoral;}
+td#coral {
+	background-color: lightcoral;
+	background-image: url("../img/sleep.png");
+	background-size: 100% 100%;
+	/* 	background-repeat: no-repeat; */
+}
 
-td#lightblue {background-color: lightblue;}
+td#lightblue {
+	background-color: lightblue;
+	background-image: url("../img/excited.png");
+	background-size: 100% 100%;
+}
 
-td#yellow {background-color: lightgoldenrodyellow;}
+td#yellow {
+	background-color: lightgoldenrodyellow;
+	background-image: url("../img/pool.png");
+	background-size: 100% 100%;
+}
 
-td#violet {background-color: violet;}
+td#violet {
+	background-color: violet;
+	background-image: url("../img/rest.png");
+	background-size: 100% 100%;
+}
 
-td#black {background-color: black; color: white;}
+td#black {
+	background-color: black;
+	color: white;
+	background-image: url("../img/hip.png");
+	background-size: 100% 100%;
+}

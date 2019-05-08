@@ -1,11 +1,12 @@
-﻿Mark,10231616,Mark,2018.12.11,Way/틈/Shelter/Ever/*Gone/Gone (Inst.)
-Big wave,10145978,Big wave,2018.03.08,얘기 좀 해요 (Feat. 임현식 Of 비투비)/멋진 구두 (Fancy shoes remastered ver.)/She`s gone/Big wave/Always (Feat. 진호 Of 펜타곤)
-Spoiler,10253688,Spoiler (Feat. Babylon),2019.02.21,Spoiler (Feat. Babylon)
-HUTAZONE,10242529,HUTAZONE,2019.01.15,HUTAZONE/YA/너도? 나도! (Feat. 소연 of (여자)아이들)/아무렇지 않은 척/꿈인가 봐요 (Duet. 육성재 of 비투비)/낙화(落花) (Interlude)/Fallin’/ALL DAY (Korean Ver.)/Purple Rain (Feat. CHEEZE)/오늘 밤에 (With Melody)/Waiting For You
-POB1,10057579,Piece of BTOB Vol.1,2017.04.24,At The End
-POB2,10066941,Piece of BTOB Vol.2,2017.05.30,Fancy Shoes
-POB3,10074825,Piece of BTOB Vol.3,2017.06.27,THAT GIRL
-POB4,10082131,Piece of BTOB Vol.4,2017.07.24,SWIMMING/SWIMMING (Inst.)
-POB5,10086938,Piece of BTOB Vol.5,2017.08.10,Purple Rain (Feat. CHEEZE)/Purple Rain (Inst.)
-POB6,10092297,Piece of BTOB Vol.6,2017.08.30,말해/Paradise
-POB7,10096900,Piece of BTOB Vol.7,2017.09.19,이제 겨우 하루/그때
+﻿spoiler,10253688,Spoiler (Feat. Babylon),2019.02.21,*Spoiler (Feat. Babylon)
+spoiler,10253688,Spoiler (Feat. Babylon),2019.02.21,*Spoiler (Feat. Babylon)
+hutajone,10242529,HUTAZONE,2019.01.15,HUTAZONE/*YA/너도? 나도! (Feat. 소연 of (여자)아이들)/아무렇지 않은 척/꿈인가 봐요 (Duet. 육성재 of 비투비)/낙화(落花) (Interlude)/Fallin’/ALL DAY (Korean Ver.)/Purple Rain (Feat. CHEEZE)/*오늘 밤에 (With Melody)/Waiting For You
+Mark,10231616,Mark,2018.12.11,Way/*틈/Shelter/Ever/*Gone/Gone (Inst.)
+Big_wave,10145978,Big wave,2018.03.08,얘기 좀 해요 (Feat. 임현식 Of 비투비)/멋진 구두 (Fancy shoes remastered ver.)/*She`s gone/Big wave/Always (Feat. 진호 Of 펜타곤)
+pob1,10057579,Piece of BTOB Vol.1,2017.04.24,*At The End
+pob2,10066941,Piece of BTOB Vol.2,2017.05.30,*Fancy Shoes
+pob3,10074825,Piece of BTOB Vol.3,2017.06.27,*THAT GIRL
+pob4,10082131,Piece of BTOB Vol.4,2017.07.24,*SWIMMING/SWIMMING (Inst.)
+pob5,10086938,Piece of BTOB Vol.5,2017.08.10,*Purple Rain (Feat. CHEEZE)/Purple Rain (Inst.)
+pob6,10092297,Piece of BTOB Vol.6,2017.08.30,*말해/Paradise
+pob7,10096900,Piece of BTOB Vol.7,2017.09.19,*이제 겨우 하루/그때
