@@ -12,13 +12,13 @@
 <body>
 <dialog>
 	<button id="close">X</button>
-	<h1>Relase - PENIEL Digital single [B.O.D]</h1>
+	<h1>Comming Soon - PENIEL Digital single [B.O.D]</h1>
 	<!-- 	<img width='50%' src="img/Bod.jpg"> -->
 	<p>
 		[📽] 프니엘 (PENIEL) - 'B.O.D' Audio Teaser <br> <b>2019.05.13 18:00</b>
 		(KST)
 	</p>
-	<iframe width="700" height="400"
+	<iframe width="600" height="400"
 		src="https://www.youtube.com/embed/6SV6P7Trysc" frameborder="0"
 		allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 		allowfullscreen></iframe> </dialog>
