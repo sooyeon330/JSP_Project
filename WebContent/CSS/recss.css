@@ -8,10 +8,13 @@
 	/* background-color:#6F8ABF; */
 	padding:10px;
 }
-.mySlides, .mySlides > img{
+ .mySlides > img{
 	vertical-align: middle;
-	height:200px;
+	height:250px;
 	margin:0 0 0 5%;
+	position: relative;
+	overflow:hidden;
+	z-index: 3;
 }
 .mySlides .rdiv{
 	float: right;
@@ -22,6 +25,7 @@
  
 /* Slideshow container */
 .slideshow-container {
+top:40px;
   max-width: 1144px; /* 1000 */
   position: relative;
   margin: auto;

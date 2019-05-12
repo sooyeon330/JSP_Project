@@ -71,12 +71,7 @@
 				song.add(new Song( Integer.toString(albumnum)  ,albumimg, albumstr,albumid,datestr,songstr));
 			}
 		}//while 
-%>
-<table id="List">
-	<tr>
-		<th colspan="4">오늘의 추천곡</th>
-	</tr>
-<%
+			
 	int ridx[] = new int[3];
 	for(int i=0; i<3; i++){
 		ridx[i]=(int)(Math.random()*song.size());
@@ -86,26 +81,33 @@
 			}
 		}
 	}
-		
+%>
+<center>
+<table id="List" >
+	<tr>
+		<th colspan="4">오늘의 추천곡</th>
+	</tr>
+<%		
 	for(int i=0; i<3; i++){
 %>
 	<tr>
-			<td class="imgtd"><img class="image" src="img/album/<%=song.get(ridx[i]).Albumimg%>.jpg"></td>
-			<td class="songtd"><%=song.get(ridx[i]).song%></td>
-			<td><a title="앨범정보보기" target="black" href="https://www.melon.com/album/detail.htm?albumId=<%=song.get(ridx[i]).AlbumId%>">
+			<td class="imagetd"><img class="image" src="img/album/<%=song.get(ridx[i]).Albumimg%>.jpg"></td>
+			<td class="titletd"><%=song.get(ridx[i]).song%></td>
+			<td class="albumtd"><a title="앨범정보보기" target="black" href="https://www.melon.com/album/detail.htm?albumId=<%=song.get(ridx[i]).AlbumId%>">
 																						<%=song.get(ridx[i]).Album%></a></td>
 			<td>
 				<input class="btn" type="button" value="▶ 들으러 가기"
 				 onclick=" window.open('about:blank').location.href='https://www.melon.com/album/detail.htm?albumId=<%=song.get(ridx[i]).AlbumId%>'">
 			</td>
 	</tr>
+
 <%
 	}
 	
 %>
-
+</center>
 </table>
-<table class="sleepList">
+<table class="sleepList" >
 <%
 		Collections.shuffle(song);
 		//출력

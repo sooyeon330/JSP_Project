@@ -26,6 +26,8 @@ html{
 }
 .image{
 	height: 50px;
+	float: right;
+	margin:10px;
 }
 .sleepList a{
 	color:black;
@@ -40,7 +42,7 @@ html{
 #List{
 	background-color:lightblue;
 	border-radius:5px;
-	width:100%;
+	width:80%;
 	text-align: center;
 	padding: 10px;
 }
@@ -49,7 +51,9 @@ html{
 	font-size:20px;
 	padding:5px;
 }
-
+#List td{
+	width:100px;
+}
 #List a{
 	color:black;
 	text-decoration: none;
@@ -58,9 +62,23 @@ html{
 	color:white;
 	background-color: #ff1150;
 	padding:10px;
+	margin-left:10px;
 	border:0;
 	border-radius: 5px;
+	float: left;
+	cursor: pointer;
 }
+
+.titletd{
+	width:200px;
+	text-align: left;
+}
+
+.albumtd{
+	width:200px;
+}
+
+
 
 
 

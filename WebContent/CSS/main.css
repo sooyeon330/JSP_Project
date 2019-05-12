@@ -17,18 +17,18 @@ body::-webkit-scrollbar {
 	background-color:white;
 	border-spacing: 0px;
 }
+
+.top{
+ 	margin : 0; padding : 0;
+	text-align: center;
+	height:15%;
+}
 .header{
 	margin:0px;
 	padding:0px;
 	width:100%;
 	text-align: center;
 }
-.top{
- 	margin : 0; padding : 0;
-	text-align: center;
-	height:15%;
-}
-
 .left{
 	width: 10%;
 }

@@ -1,5 +1,4 @@
-.top ul {
-  list-style-type: none;
+.top ul{
   margin: 0;
   padding: 0;
   overflow: hidden;
@@ -8,7 +7,7 @@
   position: fixed;
   top: 0;
   width: 100%;
-  	z-index:10;
+  list-style-type: none;
 }
 
 .top li {
@@ -27,8 +26,9 @@
  	background-color: #6F8ABF;
     color: white;
 }
-.logo{ 
-	padding:0;
+#logo{
+	top:0;	
+	position: fixed;
+	z-index: 10;
 	float: left;
-	
 }

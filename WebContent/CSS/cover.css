@@ -1,0 +1,29 @@
+#btn{
+	width: 100%;
+	background-color: black;
+}
+#btn button{
+	color:white;
+	background-color: #ff1150;
+	padding:10px;
+	margin:10px;
+	border:0;
+	border-radius: 5px;
+	float: left;
+	cursor: pointer;
+}
+
+#your{ display: none; }
+#mask{ display: none; float: left;}
+#test{ display: none;}
+.grid-container {
+  display: grid;
+  grid-column-gap: 20px;
+  grid-template-columns: auto auto auto;
+  padding: 10px;
+}
+
+.grid-item {
+  padding: 20px;
+  text-align: center;
+}
