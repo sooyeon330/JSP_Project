@@ -1,0 +1,12 @@
+dialog{
+	top:200px;
+	width:60%;
+	z-index: 11;
+}
+#close{
+	font-size: 20px;
+	float: right;
+	border: 0;
+	background: white;
+	cursor: pointer;
+}
