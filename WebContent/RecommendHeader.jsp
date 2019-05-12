@@ -14,9 +14,6 @@
   		<img src="img/sleepimg.jpg">
 		<div class="rdiv">
 		<h1>잠 안 올때</h1>
-		<div>
-			hello
-		</div>
 		</div>
 </div>
 
@@ -64,6 +61,9 @@
 <%
 	request.setCharacterEncoding("utf-8");
 	int index = Integer.valueOf(request.getParameter("index"));
+	
+
+	
 %>
 <script>
 var slideIndex = <%=index %>;
@@ -98,6 +98,7 @@ function showSlides(n) {
 		}
 		slides[slideIndex - 1].style.display = "block";
 		dots[slideIndex - 1].className += " active";
+	
 	
 }
 function gopage(n){

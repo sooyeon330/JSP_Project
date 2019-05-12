@@ -27,7 +27,7 @@
 			<td class="container" id="yellow" rowspan="2">
 				<div class="overlay">
 					<div class="text">
-						<a href="ReTemplate.jsp?CONTENTPAGE=showRe.jsp&index=3&List=sad">슬플떼</a>
+						<a href="ReTemplate.jsp?CONTENTPAGE=showRe.jsp&index=3&List=sad">슬플때</a>
 					</div>
 				</div>
 			</td>

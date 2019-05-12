@@ -72,6 +72,39 @@
 			}
 		}//while 
 %>
+<table id="List">
+	<tr>
+		<th colspan="4">오늘의 추천곡</th>
+	</tr>
+<%
+	int ridx[] = new int[3];
+	for(int i=0; i<3; i++){
+		ridx[i]=(int)(Math.random()*song.size());
+		for(int j=0; j<i; j++){
+			if(ridx[i]==ridx[j]){
+				i--; break;
+			}
+		}
+	}
+		
+	for(int i=0; i<3; i++){
+%>
+	<tr>
+			<td class="imgtd"><img class="image" src="img/album/<%=song.get(ridx[i]).Albumimg%>.jpg"></td>
+			<td class="songtd"><%=song.get(ridx[i]).song%></td>
+			<td><a title="앨범정보보기" target="black" href="https://www.melon.com/album/detail.htm?albumId=<%=song.get(ridx[i]).AlbumId%>">
+																						<%=song.get(ridx[i]).Album%></a></td>
+			<td>
+				<input class="btn" type="button" value="▶ 들으러 가기"
+				 onclick=" window.open('about:blank').location.href='https://www.melon.com/album/detail.htm?albumId=<%=song.get(ridx[i]).AlbumId%>'">
+			</td>
+	</tr>
+<%
+	}
+	
+%>
+
+</table>
 <table class="sleepList">
 <%
 		Collections.shuffle(song);
@@ -97,17 +130,6 @@
 		}finally{
 		/* reader.close(); */
 		}
-%>
-<%!
-public static String removeUTF8BOM(String str) {
-    // FEFF because this is the Unicode char represented by the UTF-8 byte order mark (EF BB BF).
-    if (str.startsWith("uFEFF")) {
-     str = str.substring(1);
-    }else if(str.startsWith("uEFBBBF")){
-    	str = str.substring(1);
-    }
-    return str;
-}
 %>
 </table>
 </body>

@@ -10,7 +10,8 @@
 }
 .mySlides, .mySlides > img{
 	vertical-align: middle;
-	height:333px;
+	height:200px;
+	margin:0 0 0 5%;
 }
 .mySlides .rdiv{
 	float: right;
@@ -115,3 +116,18 @@
 @media only screen and (max-width: 300px) {
   .prev, .next,.text {font-size: 11px}
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
