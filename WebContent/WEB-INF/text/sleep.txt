@@ -12,7 +12,8 @@ mini8,2675661,Remember that,2016.3.28,봄날의 기억
 mini7,2644202,I mean,2015.10.12,Last Day
 mini7,2644202,I mean,2015.10.12,여기 있을게
 jung1,2326467,Complete,2015.6.29,보고파
-jung1,2326467,Complete,2015.6.29,비밀(Insane) (Acoustic Ver.)/Everything's Good - 일훈 Solo. (Outro)
+jung1,2326467,Complete,2015.6.29,비밀(Insane) (Acoustic Ver.)
+jung1,2326467,Complete,2015.6.29,Everything's Good - 일훈 Solo. (Outro)
 mini3,2200239,스릴러,2013.9.9,내가 니 남자였을 때
 mini3,2200239,스릴러,2013.9.9,크리스탈같이
 mini3,2200239,스릴러,2013.9.9,별

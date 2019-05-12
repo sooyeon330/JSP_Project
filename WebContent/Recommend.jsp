@@ -13,21 +13,21 @@
 			<td class="container" id="coral">
 				<div class="overlay">
 					<div class="text">
-						<a href="ReTemplate.jsp?CONTENTPAGE=sleepProc.jsp&index=1">잠안올때</a>
+						<a href="ReTemplate.jsp?CONTENTPAGE=showRe.jsp&index=1&List=sleep">잠안올때</a>
 					</div>
 				</div>
 			</td>
 			<td class="container" id="lightblue"  colspan="2">
 				<div class="overlay">
 					<div class="text">
-						<a href="ReTemplate.jsp?CONTENTPAGE=allProc.jsp&index=2">신날때</a>
+						<a href="ReTemplate.jsp?CONTENTPAGE=showRe.jsp&index=2&List=exciting">신날때</a>
 					</div>
 				</div>
 			</td>
 			<td class="container" id="yellow" rowspan="2">
 				<div class="overlay">
 					<div class="text">
-						<a href="ReTemplate.jsp?CONTENTPAGE=allProc.jsp&index=3">우울할때</a>
+						<a href="ReTemplate.jsp?CONTENTPAGE=showRe.jsp&index=3&List=sad">슬플떼</a>
 					</div>
 				</div>
 			</td>
@@ -36,14 +36,14 @@
 			<td class="container" id="violet" colspan="2">
 				<div class="overlay">
 					<div class="text">
-						<a href="ReTemplate.jsp?CONTENTPAGE=allProc.jsp&index=4">휴식할때</a>
+						<a href="ReTemplate.jsp?CONTENTPAGE=showRe.jsp&index=4&List=rest">휴식할때</a>
 					</div>
 				</div>
 			</td>
 			<td class="container" id="black">
 				<div class="overlay">
 					<div class="text">
-						<a href="ReTemplate.jsp?CONTENTPAGE=allProc.jsp&index=5">힙터질때</a>
+						<a href="ReTemplate.jsp?CONTENTPAGE=showRe.jsp&index=5&List=hip">힙터질때</a>
 					</div>
 				</div>
 			</td>

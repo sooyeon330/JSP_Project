@@ -14,6 +14,9 @@
   		<img src="img/sleepimg.jpg">
 		<div class="rdiv">
 		<h1>잠 안 올때</h1>
+		<div>
+			hello
+		</div>
 		</div>
 </div>
 
@@ -60,7 +63,7 @@
 </div>
 <%
 	request.setCharacterEncoding("utf-8");
-	String index = request.getParameter("index");
+	int index = Integer.valueOf(request.getParameter("index"));
 %>
 <script>
 var slideIndex = <%=index %>;
@@ -110,15 +113,15 @@ function gopage(n){
 	}
 	
  	switch(n){
-	case 1 : page = "sleepProc.jsp"; break;
-	case 2 : page = "allProc.jsp"; break;
-	case 3 : page = "sleepProc.jsp"; break;
-	case 4 : page = "allProc.jsp"; break;
-	case 5 : page = "sleepProc.jsp"; break;
+	case 1 : page = "sleep"; break;
+	case 2 : page = "exciting"; break;
+	case 3 : page = "sad"; break;
+	case 4 : page = "rest"; break;
+	case 5 : page = "hip"; break;
 	default: page = "soloProc.jsp";
 	} 
 /* 	location.href= "main.jsp"; */
- 	location.href= "ReTemplate.jsp?index="+n+"&CONTENTPAGE="+page; 
+ 	location.href= "ReTemplate.jsp?CONTENTPAGE=showRe.jsp&index="+n+"&List="+page;
 }
 </script>
 
